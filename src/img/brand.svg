@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="218.867" height="49" viewBox="0 0 218.867 49">
+  <g id="titulo" transform="translate(-371 -348.737)" opacity="0.88">
+    <g id="Grupo_1" data-name="Grupo 1" transform="translate(375.083 361.803)">
+      <rect id="Rectángulo_2" data-name="Rectángulo 2" width="105" height="29" transform="translate(-0.083 -0.067)" fill="#5b00fb"/>
+    </g>
+    <rect id="Rectángulo_3" data-name="Rectángulo 3" width="15" height="29" rx="7.5" transform="translate(485 361.737)" fill="#5b00fb"/>
+    <g id="Trazado_1" data-name="Trazado 1" transform="translate(371 343.737)" fill="none">
+      <path d="M218.867,54h0Z" stroke="none"/>
+      <path d="M 1.52587890625e-05 54 L 218.8666534423828 54 L 1.52587890625e-05 54 Z" stroke="none" fill="#000"/>
+    </g>
+    <text id="Hard" transform="translate(502 386.737)" font-size="35" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="0">Hard</tspan></text>
+  </g>
+</svg>
