@@ -25,7 +25,7 @@ header .containerBrand{
 }
 
 header .containerBrand img{
-    transform: scale(0.55);
+    transform: scale(0.70);
 }
 
 /* containerList */
@@ -46,9 +46,10 @@ header .containerItemList ul{
 }
 
 header .containerItemList ul li{
-    margin: 10px;
+    text-decoration: none;
+    
+    margin: 0 0 0 50px;
     color: var(--color-txt-nav);
-    cursor: pointer;
 }
 
 /* containerCart */

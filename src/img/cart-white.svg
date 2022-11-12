@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="32.491" height="29.061" viewBox="0 0 32.491 29.061">
+  <g id="cart-outline" transform="translate(1.5 1.5)">
+    <circle id="Elipse_1" data-name="Elipse 1" cx="1.179" cy="1.179" r="1.179" transform="translate(8.256 23.703)" fill="rgba(38,100,104,0)" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+    <circle id="Elipse_2" data-name="Elipse 2" cx="1.179" cy="1.179" r="1.179" transform="translate(24.768 23.703)" fill="rgba(38,100,104,0)" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+    <path id="Trazado_2" data-name="Trazado 2" d="M48,80h4.738l3.554,20.138H75.246" transform="translate(-48 -80)" fill="rgba(38,100,104,0)" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+    <path id="Trazado_3" data-name="Trazado 3" d="M130.369,139.846h18.468a.592.592,0,0,0,.581-.476l2.132-10.661a.592.592,0,0,0-.581-.709H128" transform="translate(-122.077 -124.446)" fill="rgba(38,100,104,0)" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+  </g>
+</svg>
